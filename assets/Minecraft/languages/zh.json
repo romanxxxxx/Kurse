@@ -1,0 +1,18 @@
+{
+    "singleplayer": "Одиночная игра",
+    "options": "Настройки",
+    "quit_game": "Выйти из игры",
+    "player dead" : "Смэрть...",
+    "sound.volume" :  "Звук",
+    "World.Seed" : "Сид",
+    "gui.lang" : "Язык",
+    "death.titlescreen": "В меню",
+    "game.menu" : "Меню",
+    "quit.title" : "В главное меню",
+    "load.world" : "Загрузка мира...",
+    "gen.terrain" : "Генерация ",
+    "backgame" : "Вернуться в игру ",
+    "gui.qtt" : "返回主界面",
+    "respawn" : "Возродиться",
+    "quit.mainmenu" : "В главное меню..."
+}
